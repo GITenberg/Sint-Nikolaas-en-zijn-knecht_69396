@@ -1,0 +1,32 @@
+_repo: Sint-Nikolaas-en-zijn-knecht_69396
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schenkman, J. (Jan)
+    alias: Schenkman, Jan
+    birthdate: 1806
+    deathdate: 1863
+    gutenberg_agent_id: '55241'
+    url: http://www.gutenberg.org/2009/agents/55241
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jan_Schenkman
+    - https://nl.wikipedia.org/wiki/Jan_Schenkman
+description: ''
+gutenberg_issued: '2022-11-20'
+identifiers:
+  gutenberg: '69396'
+language: nl
+pgterms:marc905: 20221119082934schenkman
+pgterms:marc906: '1850'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman for Project Gutenberg
+publication_note: 'Netherlands: Gerrit Theodoor Bom,1850.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Saint Nicholas'' Day -- Juvenile poetry'
+- !lcc 'PZ'
+- GITenberg
+title: Sint Nikolaas en zijn knecht
+url: http://www.gutenberg.org/ebooks/69396
