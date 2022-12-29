@@ -1,5 +1,8 @@
 _repo: Sint-Nikolaas-en-zijn-knecht_69396
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schenkman, J. (Jan)
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jan_Schenkman
     - https://nl.wikipedia.org/wiki/Jan_Schenkman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69396#Sint-Nikolaas-en-zijn-knecht
 gutenberg_issued: '2022-11-20'
 identifiers:
   gutenberg: '69396'
